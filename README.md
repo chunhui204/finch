@@ -61,19 +61,13 @@
 #### Text Generation（文本生成）
 <img src="https://github.com/zhedongzheng/finch/blob/master/nlp-models/assets/decoration_5.png" height='100'>
 
-* Language Model（语言模型）
+* RNN Language Model &nbsp; &nbsp; [Notebook](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/nlp-models/tensorflow/tf-data-api/char_rnn_beam_test.ipynb)
 
-    * RNN LM &nbsp; &nbsp; [Notebook](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/nlp-models/tensorflow/tf-data-api/char_rnn_beam_test.ipynb)
+* Character-Aware Language Model &nbsp; &nbsp; [Notebook](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/nlp-models/tensorflow/tf-data-api/cnn_rnn_text_gen_test.ipynb)
 
-    * Character-Aware LM &nbsp; &nbsp; [Notebook](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/nlp-models/tensorflow/tf-data-api/cnn_rnn_text_gen_test.ipynb)
+* Dilated-CNN Language Model &nbsp; &nbsp; [Notebook](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/nlp-models/tensorflow/tf-data-api/cnn_lm_test.ipynb)
 
-    * Dilated-CNN LM &nbsp; &nbsp; [Notebook](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/nlp-models/tensorflow/tf-data-api/cnn_lm_test.ipynb)
-
-    * Self-Attention LM &nbsp; &nbsp; [Notebook](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/nlp-models/tensorflow/tf-data-api/self_attn_lm_test.ipynb)
-
-* Speech Recognition（语音识别）
-
-    * CTC &nbsp; &nbsp; [Notebook](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/nlp-models/tensorflow/asr/train.ipynb)
+* Self-Attention Language Model &nbsp; &nbsp; [Notebook](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/nlp-models/tensorflow/tf-data-api/self_attn_lm_test.ipynb)
 
 #### Text Matching（文本匹配）
 <img src="https://github.com/zhedongzheng/finch/blob/master/nlp-models/assets/decoration_10.jpeg" height='200'>
@@ -157,12 +151,20 @@
 
 * Loading Data (导入数据)
 
-    * [TFRecord: Fixed Length](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/tf/data_io/tfrecord_imdb_fixed_len.ipynb)
+    * [TFRecord: Fixed Length](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/tf-models/data_io/tfrecord_imdb_fixed_len.ipynb)
     
-    * [TFRecord: Padded Batch](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/tf/data_io/tfrecord_imdb_var_len.ipynb)
+    * [TFRecord: Padded Batch](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/tf-models/data_io/tfrecord_imdb_var_len.ipynb)
 
 * Project Template（项目模版）
 
-    * [TF Estimator Template](https://github.com/zhedongzheng/finch/tree/master/tf/templates/tf_estimator_template)
+    * [TF Estimator Template](https://github.com/zhedongzheng/finch/tree/master/tf-models/templates/tf_estimator_template)
 
-    * [TF Dataset Template](https://github.com/zhedongzheng/finch/tree/master/tf/templates/tf_dataset_template)
+    * [TF Dataset Template](https://github.com/zhedongzheng/finch/tree/master/tf-models/templates/tf_dataset_template)
+
+#### Speech
+
+* CTC &nbsp; &nbsp; [Notebook](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/voice-models/asr/train.ipynb)
+
+#### Computer Vision
+
+* DCGAN &nbsp; &nbsp; [Notebook](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/cv-models/dcgan.ipynb)
