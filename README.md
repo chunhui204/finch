@@ -20,7 +20,7 @@
 * [Question Answering（问题回答）](https://github.com/zhedongzheng/finch/blob/master/README.md#question-answering%E9%97%AE%E9%A2%98%E5%9B%9E%E7%AD%94)
 * [Knowledge Graph（知识图谱）](https://github.com/zhedongzheng/finch#knowledge-graph%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1)
 * [TensorFlow Detail（TensorFlow 细节）](https://github.com/zhedongzheng/finch/blob/master/README.md#tensorflow-detailtensorflow-%E7%BB%86%E8%8A%82)
-* [Others（其他）]()
+* [Others（其他）](https://github.com/zhedongzheng/finch/blob/master/README.md#others%E5%85%B6%E4%BB%96)
 
 ---
 #### Requirements 
