@@ -64,7 +64,7 @@
 
 * Language Model - RNN &nbsp; &nbsp; [Notebook](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/nlp-models/tensorflow/tf-data-api/char_rnn_beam_test.ipynb)
 
-* Language Model - Char CNN + RNN &nbsp; &nbsp; [Notebook](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/nlp-models/tensorflow/tf-data-api/cnn_rnn_text_gen_test.ipynb)
+* Language Model - Char-CNN + RNN &nbsp; &nbsp; [Notebook](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/nlp-models/tensorflow/tf-data-api/cnn_rnn_text_gen_test.ipynb)
 
 * Language Model - Dilated-CNN &nbsp; &nbsp; [Notebook](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/nlp-models/tensorflow/tf-data-api/cnn_lm_test.ipynb)
 
