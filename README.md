@@ -21,8 +21,8 @@
     * [Question Answering（问题回答）](https://github.com/zhedongzheng/finch/blob/master/README.md#question-answering%E9%97%AE%E9%A2%98%E5%9B%9E%E7%AD%94)
     * [Knowledge Graph（知识图谱）](https://github.com/zhedongzheng/finch#knowledge-graph%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1)
     * [TensorFlow Detail（TensorFlow 细节）](https://github.com/zhedongzheng/finch/blob/master/README.md#tensorflow-detailtensorflow-%E7%BB%86%E8%8A%82)
-* [Speech]()
-* [Vision]()
+* [Speech](https://github.com/zhedongzheng/finch#speech%E8%AF%AD%E9%9F%B3)
+* [Vision](https://github.com/zhedongzheng/finch#computer-vision%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89)
 
 
 ---
@@ -167,8 +167,8 @@
 
 #### Speech（语音)
 
-    * RNN + CTC &nbsp; &nbsp; [Notebook](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/voice-models/asr/train.ipynb)
+* RNN + CTC &nbsp; &nbsp; [Notebook](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/voice-models/asr/train.ipynb)
 
 #### Computer Vision（计算机视觉)
 
-    * DCGAN &nbsp; &nbsp; [Notebook](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/cv-models/dcgan.ipynb)
+* DCGAN &nbsp; &nbsp; [Notebook](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/cv-models/dcgan.ipynb)
